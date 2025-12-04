@@ -2,15 +2,15 @@
 ## 🏠 Project Overview – Step by Step
 
 ### 1. **Base Paper & Motivation**
-- You started with a base paper on **warehouse rental prices** using spatial machine learning (Elsevier, 2025).  
+- I started with a base paper on **warehouse rental prices** using spatial machine learning (Elsevier, 2025).  
 - That inspired you to adapt the idea to **housing rent prediction**, focusing on **feature interactions**.
 
 ---
 
 ### 2. **Problem Refinement**
-- Initially, you tried predicting rents across **all metro cities**.  
+- Initially, I tried predicting rents across **all metro cities**.  
 - Accuracy was inconsistent because rent ranges and locality impacts varied widely.  
-- You refined the scope to **Chennai city only**, for better stability and performance.
+- So I refined the scope to **Chennai city only**, for better stability and performance.
 
 ---
 
@@ -59,7 +59,7 @@
 - Non-linear combinations (e.g., large furnished flats in prime localities) drove higher rents.
 
 ### 8. **Conclusion**
-- You successfully built a **city-level rent prediction model** for Chennai.  
+- I successfully built a **city-level rent prediction model** for Chennai.  
 - Random Forest was the most reliable model.  
 - Feature interaction analysis improved interpretability.  
 - The framework can help **tenants, owners, and planners** make informed rental decisions.
